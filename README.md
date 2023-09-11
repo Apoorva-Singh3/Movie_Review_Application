@@ -4,6 +4,6 @@ A program to review movies
 ## Technologies Used
 - Language - Java, HTML, CSS, JavaScript
 - Library - React JS
-- Frameworks - Spring Boot
+- Framework - Spring Boot
 - Database - MongoDB
 
