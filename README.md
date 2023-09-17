@@ -1,5 +1,5 @@
 # Movie_Review_Application
-A program to review movies
+An Online Movie Review Application system to review movies, view their trailers and posters
 
 ## Technologies Used
 - Language - Java, HTML, CSS, JavaScript
